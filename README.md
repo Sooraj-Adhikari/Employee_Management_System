@@ -3,7 +3,7 @@
 Employee Management System is a web application built using React.js and Tailwind CSS that allows users to manage employee data and tasks efficiently.
 It uses localStorage to store user credentials, tasks, and other relevant information, providing a simple yet fully functional employee management solution.
 <hr>
-## 🚀 Features
+<h2>🚀 Features</h2> 
 
 🧑‍💼 Employee Management: Add, edit, and delete employee details
 
@@ -17,7 +17,7 @@ It uses localStorage to store user credentials, tasks, and other relevant inform
 
 ✨ Built with modern React and Tailwind CSS for a smooth experience
 <hr>
-# 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>  
 
 Frontend: React.js, Tailwind CSS
 
@@ -27,7 +27,7 @@ Storage: localStorage for storing user credentials and tasks
 
 Styling: Tailwind CSS with dark/light mode support
 <hr>
-# React + Vite
+<h2>React + Vite</h2>React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
