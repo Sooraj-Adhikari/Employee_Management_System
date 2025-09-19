@@ -3,7 +3,7 @@
 Employee Management System is a web application built using React.js and Tailwind CSS that allows users to manage employee data and tasks efficiently.
 It uses localStorage to store user credentials, tasks, and other relevant information, providing a simple yet fully functional employee management solution.
 <hr>
-# 🚀 Features
+## 🚀 Features
 
 🧑‍💼 Employee Management: Add, edit, and delete employee details
 
